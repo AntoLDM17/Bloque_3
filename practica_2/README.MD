@@ -12,7 +12,7 @@ New files to support this, were also created by modifying the original ones.
 Added support to save data into XML files. This files include a data typology analysis and the final reccomendation.
 
 ### Instructions:
-To execute the program, run "pizzas_maven_XML.py".
+To execute the program, Use pip install -r requirements.txt to download the libraries needed. Then run "pizzas_maven_XML.py".
 Also, it is possible to create a docker image to deploy the program in a safer way.
 To do that, just run the following command in the console, inside the directory where you clone this repository:
 
